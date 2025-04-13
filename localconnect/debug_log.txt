@@ -1,0 +1,155 @@
+Array
+(
+    [faculty] => Array
+        (
+            [0] => Array
+                (
+                    [name] => teacher3
+                    [username] => FUCE29
+                    [email] => teacher3@gmail.com
+                    [password] => 123456
+                    [department_id] => ECE
+                )
+
+            [1] => Array
+                (
+                    [name] => teacher2
+                    [username] => FUCE30
+                    [email] => teacher2@gmail.com
+                    [password] => 123456
+                    [department_id] => CSE
+                )
+
+        )
+
+)
+INSERT INTO users (username, password, role) VALUES ('FUCE29', '$2y$10$uDiR/655O6ltGWp5ZeLg0.C410LXE7T/764flPeLUZKu3UEU7L9HC', 'faculty')
+INSERT INTO faculty (name, username, email, department_id) VALUES ('teacher3', 'FUCE29', 'teacher3@gmail.com', 'ECE')
+Array
+(
+    [faculty] => Array
+        (
+            [0] => Array
+                (
+                    [name] => teacher3
+                    [username] => FUCE29
+                    [email] => teacher3@gmail.com
+                    [password] => 123456
+                    [department_id] => ECE
+                )
+
+            [1] => Array
+                (
+                    [name] => teacher2
+                    [username] => FUCE30
+                    [email] => teacher2@gmail.com
+                    [password] => 123456
+                    [department_id] => CSE
+                )
+
+        )
+
+)
+Error: Duplicate entry 'FUCE29' for key 'username'
+Array
+(
+    [faculty] => Array
+        (
+            [0] => Array
+                (
+                    [name] => teacher3
+                    [username] => FUCE29
+                    [email] => teacher3@gmail.com
+                    [password] => 123456
+                    [department_id] => ECE
+                )
+
+            [1] => Array
+                (
+                    [name] => teacher2
+                    [username] => FUCE30
+                    [email] => teacher2@gmail.com
+                    [password] => 123456
+                    [department_id] => CSE
+                )
+
+        )
+
+)
+Array
+(
+    [faculty] => Array
+        (
+            [0] => Array
+                (
+                    [name] => teacher3
+                    [username] => FUCE29
+                    [email] => teacher3@gmail.com
+                    [password] => 123456
+                    [department_id] => ECE
+                )
+
+            [1] => Array
+                (
+                    [name] => teacher2
+                    [username] => FUCE30
+                    [email] => teacher2@gmail.com
+                    [password] => 123456
+                    [department_id] => CSE
+                )
+
+        )
+
+)
+Array
+(
+    [faculty] => Array
+        (
+            [0] => Array
+                (
+                    [name] => teacher3
+                    [username] => FUCE29
+                    [email] => teacher3@gmail.com
+                    [password] => 123456
+                    [department_id] => ECE
+                )
+
+            [1] => Array
+                (
+                    [name] => teacher2
+                    [username] => FUCE30
+                    [email] => teacher2@gmail.com
+                    [password] => 123456
+                    [department_id] => CSE
+                )
+
+        )
+
+)
+Error: Duplicate entry 'FUCE29' for key 'username'
+Array
+(
+    [faculty] => Array
+        (
+            [0] => Array
+                (
+                    [name] => teacher3
+                    [username] => FUCE29
+                    [email] => teacher3@gmail.com
+                    [password] => 123456
+                    [department_id] => ECE
+                )
+
+            [1] => Array
+                (
+                    [name] => teacher2
+                    [username] => FUCE30
+                    [email] => teacher2@gmail.com
+                    [password] => 123456
+                    [department_id] => CSE
+                )
+
+        )
+
+)
+Error: Duplicate entry 'FUCE29' for key 'username'
